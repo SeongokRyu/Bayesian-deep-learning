@@ -37,7 +37,13 @@ Notes and codes of the topic "Bayesian deep learning"
 
 
 ### Uncertainty-aware Deep Learning
-* 
+* Heo, Jay, et al. "Uncertainty-Aware Attention for Reliable Interpretation and Prediction." arXiv preprint arXiv:1805.09653 (2018).
+
+### Semi-supervised learning
+* Zhu, Xiaojin. "Semi-supervised learning literature survey." Computer Science, University of Wisconsin-Madison 2.3 (2006): 4.
+* Kingma, Diederik P., et al. "Semi-supervised learning with deep generative models." Advances in Neural Information Processing Systems. 2014.
+* Miyato, Takeru, et al. "Virtual adversarial training: a regularization method for supervised and semi-supervised learning." IEEE transactions on pattern analysis and machine intelligence (2018).
+* Kamnitsas, Konstantinos, et al. "Semi-Supervised Learning via Compact Latent Space Clustering." arXiv preprint arXiv:1806.02679 (2018).
 
 ### Bayesian active learning
 * Cohn, David A., Zoubin Ghahramani, and Michael I. Jordan. "Active learning with statistical models." Journal of artificial intelligence research 4 (1996): 129-145.
