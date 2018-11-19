@@ -42,6 +42,7 @@ Notes and codes of the topic "Bayesian deep learning"
 
 ### Semi-supervised learning
 * Zhu, Xiaojin. "Semi-supervised learning literature survey." Computer Science, University of Wisconsin-Madison 2.3 (2006): 4.
+* Zhu, Xiaojin, and Zoubin Ghahramani. "Learning from labeled and unlabeled data with label propagation." (2002): 1.
 * Kingma, Diederik P., et al. "Semi-supervised learning with deep generative models." Advances in Neural Information Processing Systems. 2014.
 * Laine, Samuli, and Timo Aila. "Temporal ensembling for semi-supervised learning." arXiv preprint arXiv:1610.02242 (2016).
 * Tarvainen, Antti, and Harri Valpola. "Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results." Advances in neural information processing systems. 2017., https://github.com/CuriousAI/mean-teacher
