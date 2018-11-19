@@ -2,9 +2,9 @@
 Notes and codes of the topic "Bayesian deep learning"
 
 ## References (continually updated) :
-### Bayesian deep learning
+### Preliminaries
 * A history of Bayesian neural network, https://www.youtube.com/watch?v=FD8l2vPU5FY
-* Gal, Yarin. "Uncertainty in deep learning." University of Cambridge (2016).
+* Ghahramani, Zoubin. "Probabilistic machine learning and artificial intelligence." Nature 521.7553 (2015): 452.
 
 ### Variational inference
 * Graves, Alex. "Practical variational inference for neural networks." Advances in neural information processing systems. 2011.
@@ -28,6 +28,7 @@ Notes and codes of the topic "Bayesian deep learning"
 
 ### Uncertainty estimation using Bayesian's eye
 * Der Kiureghian, Armen, and Ove Ditlevsen. "Aleatory or epistemic? Does it matter?." Structural Safety 31.2 (2009): 105-112.
+* Gal, Yarin. "Uncertainty in deep learning." University of Cambridge (2016).
 * Kendall, Alex, Vijay Badrinarayanan, and Roberto Cipolla. "Bayesian segnet: Model uncertainty in deep convolutional encoder-decoder architectures for scene understanding." arXiv preprint arXiv:1511.02680 (2015).
 * Kendall, Alex, and Yarin Gal. "What uncertainties do we need in bayesian deep learning for computer vision?." Advances in neural information processing systems. 2017.
 * Kendall, Alex, Yarin Gal, and Roberto Cipolla. "Multi-task learning using uncertainty to weigh losses for scene geometry and semantics." arXiv preprint arXiv:1705.07115 3 (2017).
@@ -41,7 +42,7 @@ Notes and codes of the topic "Bayesian deep learning"
 
 ### Semi-supervised learning
 * Zhu, Xiaojin. "Semi-supervised learning literature survey." Computer Science, University of Wisconsin-Madison 2.3 (2006): 4.
-* Kingma, Diederik P., et al. "Semi-supervised learning with deep generative models." Advances in Neural Information Processing Systems. 2014.
+* Kingma, Diederik P., et al. "Semi-supervised learning with deep generative models." Advances in Neural Information Processing Systems. 2014., https://www.youtube.com/watch?v=gdyZQ7vzVOw
 * Miyato, Takeru, et al. "Virtual adversarial training: a regularization method for supervised and semi-supervised learning." IEEE transactions on pattern analysis and machine intelligence (2018).
 * Kamnitsas, Konstantinos, et al. "Semi-Supervised Learning via Compact Latent Space Clustering." arXiv preprint arXiv:1806.02679 (2018).
 * Vashishth, Shikhar, et al. "Confidence-based Graph Convolutional Networks for Semi-Supervised Learning." (2018).
