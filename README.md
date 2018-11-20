@@ -50,6 +50,7 @@ Notes and codes of the topic "Bayesian deep learning"
 * Kamnitsas, Konstantinos, et al. "Semi-Supervised Learning via Compact Latent Space Clustering." arXiv preprint arXiv:1806.02679 (2018)., https://www.youtube.com/watch?v=gdyZQ7vzVOw
 * Dai, Zihang, et al. "Good semi-supervised learning that requires a bad gan." Advances in Neural Information Processing Systems. 2017.
 * Vashishth, Shikhar, et al. "Confidence-based Graph Convolutional Networks for Semi-Supervised Learning." (2018).
+* Anonymous authors, "Label propagation networks", https://openreview.net/forum?id=r1g7y2RqYX
 
 ### Bayesian active learning
 * Cohn, David A., Zoubin Ghahramani, and Michael I. Jordan. "Active learning with statistical models." Journal of artificial intelligence research 4 (1996): 129-145.
