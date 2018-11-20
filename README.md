@@ -51,6 +51,9 @@ Notes and codes of the topic "Bayesian deep learning"
 * Dai, Zihang, et al. "Good semi-supervised learning that requires a bad gan." Advances in Neural Information Processing Systems. 2017.
 * Vashishth, Shikhar, et al. "Confidence-based Graph Convolutional Networks for Semi-Supervised Learning." (2018).
 * Anonymous authors, "Label propagation networks", https://openreview.net/forum?id=r1g7y2RqYX
+* MLSS 2012: Z. Ghahramani - Lecture 3: Graph based semi-supervised learning (Part 1), https://www.youtube.com/watch?v=HZQOvm0fkLA&t=1363s
+* Machine Learning CMU 10-605 Fall 2016, Lecture21 - SSL on Graphs, https://www.youtube.com/watch?v=4RrJUrmRrbc
+* Bayesian Semi-Supervised Learning with Deep Generative Models, Presented by José-Miguel Hernández-Lobato, University of Cambridge at the Arm Research Summit 2017., https://www.youtube.com/watch?v=1ClZhMSHeBA
 
 ### Bayesian active learning
 * Cohn, David A., Zoubin Ghahramani, and Michael I. Jordan. "Active learning with statistical models." Journal of artificial intelligence research 4 (1996): 129-145.
