@@ -9,7 +9,9 @@
 ## 1. First, make 'data', 'figures' and 'statistics' directories to save input, figures and output files.
 
 > mkdir data
+
 > mkdir figures
+
 > mkdir statistics
 
 ## 2. Training: 
