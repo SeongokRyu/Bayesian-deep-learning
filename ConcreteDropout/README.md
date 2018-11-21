@@ -1,4 +1,6 @@
-# The copyright of code "ConcreteDropout.py" 
+# Concrete dropout 
+### The copyright of code "ConcreteDropout.py" to Yarin Gal, https://github.com/yaringal/ConcreteDropout
+### Yarin Gal, Jiri Hron, Alex Kendall, Concrete Dropout, NIPS 2017
 
 
 # Usage
