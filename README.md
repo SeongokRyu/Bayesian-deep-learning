@@ -25,6 +25,9 @@ Notes and codes of the topic "Bayesian deep learning"
 * Li, Yingzhen, and Yarin Gal. "Dropout inference in bayesian neural networks with alpha-divergences." arXiv preprint arXiv:1703.02914 (2017).
 * Gomez, A. N., Zhang, I., Swersky, K., Gal, Y., & Hinton, G. E. (2018). Targeted Dropout.
 
+### Other posterior approximation methods
+* 
+
 
 ### Uncertainty estimation using Bayesian's eye
 * Der Kiureghian, Armen, and Ove Ditlevsen. "Aleatory or epistemic? Does it matter?." Structural Safety 31.2 (2009): 105-112.
@@ -32,9 +35,6 @@ Notes and codes of the topic "Bayesian deep learning"
 * Kendall, Alex, Vijay Badrinarayanan, and Roberto Cipolla. "Bayesian segnet: Model uncertainty in deep convolutional encoder-decoder architectures for scene understanding." arXiv preprint arXiv:1511.02680 (2015).
 * Kendall, Alex, and Yarin Gal. "What uncertainties do we need in bayesian deep learning for computer vision?." Advances in neural information processing systems. 2017.
 * Kendall, Alex, Yarin Gal, and Roberto Cipolla. "Multi-task learning using uncertainty to weigh losses for scene geometry and semantics." arXiv preprint arXiv:1705.07115 3 (2017).
-
-### Other posterior estimation methods
-* 
 
 
 ### Uncertainty-aware Deep Learning
