@@ -21,6 +21,7 @@ For example,
 # Results
 
 ## 1. Changing the number of training samples
+![](figures/Concrete dropout results.gif)
 
 
 ## 2. Changing the amount of random noise
