@@ -47,3 +47,6 @@ Notes and codes of the topic "Bayesian deep learning"
 * Deep Bayesian Active Learning with Image Data, https://vimeo.com/240606680
 * Rottmann, Matthias, Karsten Kahl, and Hanno Gottschalk. "Deep Bayesian Active Semi-Supervised Learning." arXiv preprint arXiv:1803.01216 (2018).
 * Chen, Nutan, et al. "Active learning based on data uncertainty and model sensitivity." arXiv preprint arXiv:1808.02026 (2018).
+
+### Adversarial examples
+* Gal, Yarin, and Lewis Smith. "Sufficient conditions for idealised models to have no adversarial examples: a theoretical and empirical study with Bayesian neural networks." arXiv preprint arXiv:1806.00667 (2018).
